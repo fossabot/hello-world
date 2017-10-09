@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhello-world.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhello-world?ref=badge_shield)
+
 hello-world
 ===========
 
@@ -6,3 +8,7 @@ This repository will contain a sundry of [coding-life](code-life.md) things. Lik
 **Open an issue if you've got a question or feedback!**
 
 ### ᕕ( ᐛ )ᕗ
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhello-world.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhello-world?ref=badge_large)
